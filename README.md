@@ -1,2 +1,1 @@
-# CardGame-Java-
-Java
+# CardGame-C++
